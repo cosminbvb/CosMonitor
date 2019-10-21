@@ -1,0 +1,85 @@
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\grpc_csharp_ext.x86.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\grpc_csharp_ext.x64.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\libgrpc_csharp_ext.x86.so
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\libgrpc_csharp_ext.x64.so
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\libgrpc_csharp_ext.x86.dylib
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\libgrpc_csharp_ext.x64.dylib
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CosMonitor.exe.config
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CosMonitor.exe.manifest
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CosMonitor.application
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CosMonitor.exe
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CosMonitor.pdb
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CircularProgressBar.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\Google.Protobuf.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\Grpc.Core.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\System.Interactive.Async.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\WinFormAnimation.dll
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\CircularProgressBar.xml
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\Google.Protobuf.xml
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\Grpc.Core.pdb
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\Grpc.Core.xml
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\System.Interactive.Async.xml
+C:\Users\Asus\source\repos\MonitorC\MonitorC\bin\Release\WinFormAnimation.xml
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\MonitorC.InternetForm.resources
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\MonitorC.MainScreen.resources
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.Properties.Resources.resources
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.TrustInfo.xml
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.exe.manifest
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.application
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.csproj.CopyComplete
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.exe
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\CosMonitor.pdb
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\MonitorC.CpuForm.resources
+C:\Users\Asus\source\repos\MonitorC\MonitorC\obj\Release\MonitorC.GPUForm.resources
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.exe
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.pdb
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\grpc_csharp_ext.x86.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\grpc_csharp_ext.x64.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\libgrpc_csharp_ext.x86.so
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\libgrpc_csharp_ext.x64.so
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\libgrpc_csharp_ext.x86.dylib
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\libgrpc_csharp_ext.x64.dylib
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CosMonitor.exe.config
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CosMonitor.exe.manifest
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CosMonitor.application
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CosMonitor.exe
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CosMonitor.pdb
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CircularProgressBar.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\Google.Protobuf.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\Grpc.Core.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\System.Interactive.Async.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\WinFormAnimation.dll
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\CircularProgressBar.xml
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\Google.Protobuf.xml
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\Grpc.Core.pdb
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\Grpc.Core.xml
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\System.Interactive.Async.xml
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\WinFormAnimation.xml
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.Properties.Resources.resources
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.TrustInfo.xml
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.exe.manifest
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.application
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.csproj.CopyComplete
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.CpuForm.resources
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.GPUForm.resources
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.InternetForm.resources
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\obj\Release\CosMonitor.MainScreen.resources
+C:\Users\Asus\source\repos\CosMonitor\CosMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.csprojAssemblyReference.cache
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.CpuForm.resources
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.GPUForm.resources
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.InternetForm.resources
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.MainScreen.resources
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.Properties.Resources.resources
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.csproj.GenerateResource.cache
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.csproj.CoreCompileInputs.cache
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.TrustInfo.xml
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.exe.manifest
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.exe
+D:\Data Asus\Desktop\backups\CosMonitor beta 1.1.0.0\CosMonitor\obj\Release\CosMonitor.pdb
